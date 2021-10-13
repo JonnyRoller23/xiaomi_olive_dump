@@ -1,0 +1,13 @@
+# olive-user 10 QKQ1.191014.001 V12.5.1.0.QCNMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8937
+- codename: olive
+- flavor: olive-user
+- release: 10
+- id: QKQ1.191014.001
+- incremental: V12.5.1.0.QCNMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/olive/olive:10/QKQ1.191014.001/V12.5.1.0.QCNMIXM:user/release-keys
+- brand: Xiaomi
+- branch: olive-user-10-QKQ1.191014.001-V12.5.1.0.QCNMIXM-release-keys
+- repo: xiaomi_olive_dump
